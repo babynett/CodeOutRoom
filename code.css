@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+}
+
+/*font*/
+h1, h2, h3, h4, h5{
+    color: black;
+}
+
+/*positions*/
+.h1{
+    width: 10%;
+}
+
+.h2{
+    width: 10%;
+    position: relative;
+    left: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h3{
+    width: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 150px;
+    left: 40%;
+}
+
+.h4{
+    width: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 400px;
+    left: 85%;
+}
+
+.h5{
+    width: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 400px;
+}

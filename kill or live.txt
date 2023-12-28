@@ -1,0 +1,21 @@
+*****DO NOT COPY THIS PART//HTML*****
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        h1{
+            font-family: monospace;
+        }
+        s{
+            color: rgb(216, 43, 43);
+        }
+    </style>
+</head>
+<body>
+    <h1><s>HELO</s>&nbsp;R<s>ICH</s>&nbsp;O<s>RE</s>&nbsp;O<s>CA</s>&nbsp;M<s>EL</s></h1>
+</body>
+</html>
